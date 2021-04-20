@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20210404/20210404.iml" filepath="$PROJECT_DIR$/20210404/20210404.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20210413/20210413.iml" filepath="$PROJECT_DIR$/20210413/20210413.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCcourse.iml" filepath="$PROJECT_DIR$/JDBCcourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlineshop/onlineshop.iml" filepath="$PROJECT_DIR$/onlineshop/onlineshop.iml" />
+    </modules>
+  </component>
+</project>

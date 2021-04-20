@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/com/jdbc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://E:/一些jar包/junit5.jar!/" />
+          <root url="jar://E:/一些jar包/junit5.jar!/documentation/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-jupiter-api/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-jupiter-engine/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-jupiter-engine/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-jupiter-migrationsupport/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-jupiter-migrationsupport/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-jupiter-params/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-jupiter-params/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-platform-commons-java-9/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-platform-commons-java-9/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-platform-commons/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-platform-console-standalone/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-platform-console/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-platform-engine/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-platform-engine/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-platform-launcher/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-platform-runner/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-platform-suite-api/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-platform-surefire-provider/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-platform-surefire-provider/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-vintage-engine/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/junit-vintage-engine/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/platform-tests/src/jmh/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/platform-tests/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/platform-tooling-support-tests/projects/ant-starter/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/platform-tooling-support-tests/projects/ant-starter/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/platform-tooling-support-tests/projects/gradle-missing-engine/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/platform-tooling-support-tests/projects/gradle-starter/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/platform-tooling-support-tests/projects/gradle-starter/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/platform-tooling-support-tests/projects/maven-starter/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/platform-tooling-support-tests/projects/maven-starter/src/test/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/platform-tooling-support-tests/src/main/java" />
+          <root url="jar://E:/一些jar包/junit5.jar!/platform-tooling-support-tests/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/junit5.jar!/" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/documentation/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-jupiter-api/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-jupiter-engine/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-jupiter-engine/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-jupiter-migrationsupport/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-jupiter-migrationsupport/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-jupiter-params/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-jupiter-params/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-platform-commons-java-9/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-platform-commons-java-9/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-platform-commons/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-platform-console-standalone/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-platform-console/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-platform-engine/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-platform-engine/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-platform-launcher/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-platform-runner/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-platform-suite-api/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-platform-surefire-provider/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-platform-surefire-provider/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-vintage-engine/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/junit-vintage-engine/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/platform-tests/src/jmh/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/platform-tests/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/platform-tooling-support-tests/projects/ant-starter/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/platform-tooling-support-tests/projects/ant-starter/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/platform-tooling-support-tests/projects/gradle-missing-engine/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/platform-tooling-support-tests/projects/gradle-starter/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/platform-tooling-support-tests/projects/gradle-starter/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/platform-tooling-support-tests/projects/maven-starter/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/platform-tooling-support-tests/projects/maven-starter/src/test/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/platform-tooling-support-tests/src/main/java" />
+          <root url="jar://$MODULE_DIR$/junit5.jar!/platform-tooling-support-tests/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="JUnit5.4">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.4.2/junit-jupiter-5.4.2.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.4.2/junit-jupiter-api-5.4.2.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.4.2/junit-platform-commons-1.4.2.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.4.2/junit-jupiter-params-5.4.2.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.4.2/junit-jupiter-engine-5.4.2.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.4.2/junit-platform-engine-1.4.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="mysql-connector-java-8.0.23" level="project" />
+    <orderEntry type="library" name="commons-beanutils-1.9.2" level="project" />
+    <orderEntry type="library" name="junit5" level="project" />
+  </component>
+</module>
